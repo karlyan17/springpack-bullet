@@ -1,7 +1,7 @@
 # springpack-bullet
 
 ## Motivation
-The main problem with toys like NERF guns and soft air, is that compared to real firearms, the energy driving the projectile is not contained within the (casing of) projectile, but rather has to be provided externaly. This leads to designs that are either too complicated and unreliable, like electric systems, or systems, that require a nontrivial amount of manipulation between each shot.
+The main problem with toys like NERF guns and soft air, is that compared to real firearms, the energy driving the projectile is not contained within the (casing of the) projectile, but rather has to be provided externaly. This leads to designs that are either too complicated and unreliable, like electric systems, or systems, that require a nontrivial amount of manipulation between each shot.
 
 To address those shortcommings I designed a bullete, that consists of a casing, a powerpack and a bullet, that form a selfcontained, reusable cartridge.
 
